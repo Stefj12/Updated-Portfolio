@@ -1,0 +1,42 @@
+.footer {
+  /* Positioning */
+ position: absolute;   
+ bottom: 0px;
+ height: 100px;
+ width: 100%;
+ background-color:rgb(43, 46, 51);
+ }
+ 
+ .nav {
+     position:none;
+     top: 0;
+     height: 0;
+     width: 0;
+     
+ }
+
+ .navbar {
+ background-color: lightslategray;
+ }
+
+ .profilepic {
+     width: 225px;
+     height: 250px;
+     float: left;
+
+
+ }
+
+ .Bio {
+     float:right;
+ }
+
+ .githubportfolio {
+     width: 250px;
+     height: 250px;
+ }
+
+ .ContactInfo {
+     float: right;
+ }
+
